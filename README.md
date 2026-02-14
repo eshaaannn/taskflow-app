@@ -1,4 +1,4 @@
-# TaskFlow (Production-Ready Setup)
+# TaskFlow
 
 This repository contains:
 - `frontend` (React + Vite)
